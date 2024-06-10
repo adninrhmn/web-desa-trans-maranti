@@ -350,6 +350,17 @@ $result = mysqli_query($koneksi, $query);
     }
   </style>
 </head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WK27EY01EX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WK27EY01EX');
+</script>
+  
 <body>
  <header>
   <div class="container">
